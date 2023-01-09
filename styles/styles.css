@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    
+}
+
+.header{
+    background-image: url('../images/banner/banner2.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 809px;
+    width: 1600px;
+
+}
+
+.main-head{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+
+}
+.starting{
+    text-align: right;
+    margin-left: 845px;
+    margin-right: 230px;
+    margin-bottom: 405px;
+   padding-top: 208px;
+
+}
+
+
+.btn-primary{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: right;
+border: 0;
+padding: 18px 35px;
+border-radius: 5px;
+background: orange;
+color: white;
+
+}
+
+.my-failure{
+    display: flex;
+    padding-top: 350px;
+    margin-top: 150px;
+    margin-bottom: 200px;
+    padding-left: 228px;
+    padding-right: 300px;
+}
+
+.person{
+    padding-top: 100px;
+    padding-left: 228px;
+    margin-left: 228px;
+    margin-right: 300px;
+}
+
+.failure-header{
+    text-align: right;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+padding-top: 350px;
+
+
+    
+}
+
+.hotash{
+    margin-left: 50px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+    
+}
+
+
+.failure{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    margin-bottom: 15px;
+    margin-right: 5px;
+    color: #444343;
+}
+
+.my-plans{
+    margin-bottom: 125px;
+}
+
+.section-title{
+    text-align: center;
+    margin-top: 72px;
+    margin-bottom: 55px;
+}
+
+.plans{
+    display: flex;
+    justify-content: space-evenly;
+}
+.skill-title{
+ font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+margin-bottom: 17px;
+}
+.description{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+color: #737272;
+}
+
+.grad{
+    margin-left: 230px;
+    margin-right: 300px;
+    margin-bottom: 130px;
+    
+}
+
+.always{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+}
+
+.btn-second{
+    color: #F15B22;
+    padding-left: 36px;
+    padding-right: 36px;
+    padding-top: 18px;
+    padding-bottom: 20px;
+}
+
+.gradient-add{
+    background-image: url('../images/watch.png');
+    background-size: cover;
+    width: 1140px;
+    height: 300px;
+
+
+}
+
+    
+
+
+
+
+
+
