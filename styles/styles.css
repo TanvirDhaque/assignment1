@@ -41,8 +41,9 @@ text-align: right;
 border: 0;
 padding: 18px 35px;
 border-radius: 5px;
-background: orange;
+background:  #F15B22;
 color: white;
+border-radius: 5px;
 
 }
 
@@ -146,8 +147,10 @@ color: #737272;
     font-weight: 700;
     font-size: 40px;
     line-height: 47px;
+    color: white;
 
 }
+
 
 .btn-second{
     color: #F15B22;
@@ -155,15 +158,33 @@ color: #737272;
     padding-right: 36px;
     padding-top: 18px;
     padding-bottom: 20px;
+    background-color:white;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    margin-top: 24px;
+
 }
 
 .gradient-add{
-    background-image: url('../images/watch.png');
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url('../images/watch.png');
     background-size: cover;
     width: 1140px;
     height: 300px;
+    border-radius: 5px;
 
 
+}
+
+.positive{
+    padding-left: 64px;
+    padding-top: 59px;
+    padding-bottom: 147px;
 }
 
     
